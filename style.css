@@ -1,3 +1,28 @@
-h1 {
-  color: red;
+body {
+	text-align: center;
+	background: #525252;
+	font-family: arial;
+	font-family: 'Manjari', sans-serif;
+
+}
+
+h1{
+	color:#ca3e47;
+	font-size: 40px;
+	text-align: center;
+	font-family: 'Manjari', sans-serif;
+}
+
+h2 {
+	color: #ca3e47;
+}
+img{
+	width: 200px;
+}
+ul{
+	text-align: left;
+}
+
+.box-pink{
+	background: 
 }
